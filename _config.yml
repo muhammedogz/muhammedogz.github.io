@@ -83,6 +83,11 @@ links:
       show: false
       href: https://codepen.io/YOUR_CODEPEN_USERNAME
       icon: fab fa-codepen
+   - telegram:
+      name: Telegram
+      show: true
+      href: https://t.me/muhammedogz
+      icon: fab fa-telegram
   - stackoverflow:
       name: Stack Overflow
       show: false
@@ -95,9 +100,9 @@ links:
       icon: fab fa-medium
   - blog:
       name: Blog
-      show: false
+      show: true
       href: http://host.domain/your_blog
-      icon: fas fa-book-open
+      icon: https://pbs.twimg.com/profile_images/1275811077754781697/qtOiI8lk.jpg
   - email:
       name: Email
       show: true
