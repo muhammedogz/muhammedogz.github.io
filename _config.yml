@@ -17,7 +17,7 @@ name: Muhammed Oguz
 subtitle: Bachelor Student in Computer Science at Gebze Technical University
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Muhammed Oguz | Bachelor Student in Computer Science at Gebze Technical University
+title: Muhammed Oguz | Portfolio
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -113,7 +113,7 @@ links:
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
-extra_html: >
+extra_html: > Feel free to contact me
     
 
 #EOF
