@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Muhammed Oguz
 #subtitle:
-subtitle: Bachelor Student 
+subtitle: Bachelor Student in Computer Science at Gebze Technical University
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
