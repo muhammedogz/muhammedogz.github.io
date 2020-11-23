@@ -85,7 +85,7 @@ links:
       icon: fab fa-codepen
   - stackoverflow:
       name: Stack Overflow
-      show: true
+      show: false
       href: https://stackoverflow.com/users/YOUR_SO_USERNAME/
       icon: fab fa-stack-overflow
   - medium:
@@ -95,7 +95,7 @@ links:
       icon: fab fa-medium
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
