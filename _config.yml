@@ -113,7 +113,8 @@ links:
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
-extra_html: > Feel free to contact me
+extra_html: > 
+    Feel free to contact me
     
 
 #EOF
