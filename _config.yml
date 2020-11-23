@@ -102,7 +102,7 @@ links:
       name: Blog
       show: true
       href: http://host.domain/your_blog
-      icon: https://pbs.twimg.com/profile_images/1275811077754781697/qtOiI8lk.jpg
+      icon: "https://pbs.twimg.com/profile_images/1275811077754781697/qtOiI8lk.jpg"
   - email:
       name: Email
       show: true
