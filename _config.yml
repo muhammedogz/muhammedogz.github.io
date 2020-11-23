@@ -83,7 +83,7 @@ links:
       show: false
       href: https://codepen.io/YOUR_CODEPEN_USERNAME
       icon: fab fa-codepen
-   - telegram:
+  - telegram:
       name: Telegram
       show: true
       href: https://t.me/muhammedogz
